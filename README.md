@@ -41,4 +41,4 @@ python employee_manager.py
 
 ## Author
 
-Created by Javier as part of a Python learning journey.
+Created by Julio Torres as part of a Python learning journey.
